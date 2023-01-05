@@ -1,16 +1,4 @@
-## 数据竞赛
-
-竞赛日历：http://coggle.club/
-
-最新的竞赛信息和baseline推送，请关注：
-- 竞赛公众号：[**Coggle数据科学**](https://t.zsxq.com/Eyn6EQr)
-- 知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
-
-## 竞赛分享
-
-每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
-
-如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
+[A Practical Two-stage Ranking Framework for Cross-market Recommendation]([https://zhuanlan.zhihu.com/DataAI](https://www.wsdm-conference.org/2022/wp-content/uploads/2022/02/Task3_WSDMCoggle_2nd.pdf))
 
 # WSDM 2022 CUP - Cross-Market Recommendation - LightGCN modified by Starter Kit 
 We totally followed the structure of xmrec's sample code for out own model design. Thus it is very easy to reproduce for version of lightgcn.
@@ -54,4 +42,18 @@ After training your model, the scripts prints the directories of model and index
     Experiment finished successfully!
 
 After getting corresponding result files, result files will be input into other tree-like model as ranking features.
+
+## 数据竞赛
+
+竞赛日历：http://coggle.club/
+
+最新的竞赛信息和baseline推送，请关注：
+- 竞赛公众号：[**Coggle数据科学**](https://t.zsxq.com/Eyn6EQr)
+- 知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
+
+## 竞赛分享
+
+每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
+
+如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
 
