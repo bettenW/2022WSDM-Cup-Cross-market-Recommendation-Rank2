@@ -1,4 +1,4 @@
-[A Practical Two-stage Ranking Framework for Cross-market Recommendation]([https://zhuanlan.zhihu.com/DataAI](https://www.wsdm-conference.org/2022/wp-content/uploads/2022/02/Task3_WSDMCoggle_2nd.pdf))
+[A Practical Two-stage Ranking Framework for Cross-market Recommendation](https://zhuanlan.zhihu.com/DataAI](https://www.wsdm-conference.org/2022/wp-content/uploads/2022/02/Task3_WSDMCoggle_2nd.pdf)
 
 # WSDM 2022 CUP - Cross-Market Recommendation - LightGCN modified by Starter Kit 
 We totally followed the structure of xmrec's sample code for out own model design. Thus it is very easy to reproduce for version of lightgcn.
